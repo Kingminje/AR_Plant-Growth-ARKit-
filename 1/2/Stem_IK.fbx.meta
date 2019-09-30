@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 1d93a5f178e19fa4c84af9dbabbb43e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Handel
+    100002: Joint_1
+    100004: Joint_2
+    100006: Joint_3
+    100008: Joint_4
+    100010: Joint_5
+    100012: Joint_6
+    100014: Joint_7
+    100016: Joint_8
+    100018: Joint_9
+    100020: LOD
+    100022: //RootNode
+    400000: Handel
+    400002: Joint_1
+    400004: Joint_2
+    400006: Joint_3
+    400008: Joint_4
+    400010: Joint_5
+    400012: Joint_6
+    400014: Joint_7
+    400016: Joint_8
+    400018: Joint_9
+    400020: LOD
+    400022: //RootNode
+    2100000: No Name
+    2300000: LOD
+    3300000: LOD
+    4300000: LOD
+    7400000: CINEMA_4D___
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D___
+      takeName: CINEMA_4D___
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Stem_IK(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Handel
+      parentName: Stem_IK(Clone)
+      position: {x: 3.2092237, y: 10.828524, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD
+      parentName: Stem_IK(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_1
+      parentName: LOD
+      position: {x: -0.008107059, y: -0.005535514, z: 0}
+      rotation: {x: 0.6997538, y: -0.101708375, z: -0.101708375, w: 0.6997538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_2
+      parentName: Joint_1
+      position: {x: -0.00037881013, y: 2.0170839e-13, z: -1.1371164}
+      rotation: {x: 2.7239088e-11, y: 0.051367223, z: -1.4010504e-12, w: 0.9986799}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_3
+      parentName: Joint_2
+      position: {x: -0.0013045402, y: -1.0038624e-12, z: -1.1757932}
+      rotation: {x: -6.819914e-11, y: 0.14494927, z: 9.990927e-12, w: 0.98943913}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_4
+      parentName: Joint_3
+      position: {x: 0.0020832855, y: -5.5828345e-13, z: -1.1373514}
+      rotation: {x: -1.3030399e-10, y: 0.038731895, z: 5.050708e-12, w: 0.99924964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_5
+      parentName: Joint_4
+      position: {x: 0.0030537941, y: 4.0811248e-12, z: -1.1448741}
+      rotation: {x: -1.3381979e-12, y: -0.13030933, z: -1.7585545e-13, w: 0.9914734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_6
+      parentName: Joint_5
+      position: {x: -0.0035548236, y: 2.0061361e-12, z: -1.1216666}
+      rotation: {x: 1.3351385e-10, y: -0.1512872, z: 2.0434097e-11, w: 0.98848987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_7
+      parentName: Joint_6
+      position: {x: -0.007068558, y: -6.0098758e-12, z: -1.1375154}
+      rotation: {x: 1.3419882e-10, y: -0.121045955, z: 1.6364516e-11, w: 0.99264693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_8
+      parentName: Joint_7
+      position: {x: -0.0073060137, y: -9.003021e-12, z: -1.1525903}
+      rotation: {x: 6.09725e-11, y: -0.107521765, z: 6.5941636e-12, w: 0.99420273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_9
+      parentName: Joint_8
+      position: {x: -0.0027354618, y: -1.9907572e-12, z: -1.0988714}
+      rotation: {x: -0.0000000017103399, y: 0.20910744, z: -0.0000000072532864, w: 0.9778927}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
